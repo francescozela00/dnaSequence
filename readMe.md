@@ -10,12 +10,7 @@ AND I LIKES TO DO EXPERIMENTS WITH PYTHON
 
 # RNA SEQUENCES WITH NERUAL ARTIFICIAL 
 
-<img src="https://github.com/francescozela00/dnaSequenc/blob/master/_test.png " height="500" />
-
-# RNA WITHOUT NERUAL ARTIFICIAL 
-
-<img src="https://github.com/francescozela00/dnaSequenc/blob/master/2_test.png" height="500"/>
-
+<img src="https://github.com/francescozela00/dnaSequenc/blob/master/ArtificialDnatest.png " height="500" />
 
 <code>
 ~/randompythoncodes/dnaSequence$ python3 main.py 
