@@ -16,12 +16,15 @@ AND I LIKES TO DO EXPERIMENTS WITH PYTHONS
 
 
 # Error Code do you like to help me ?  
+The RNA and DNA is correct, the nerual network is givin an error
 <code>
 ~/randompythoncodes/dnaSequence$ python3 main.py 
 DNA:
 UTCDAUGDCDUGCDTDGUCDADCUACADCGUTTDAGACGCDATDTTUCATTADUAGATUAT
 RNA:
 DAGUUDCUGUDCGUAUCDGUUUGDUGUUGCDAAUUCUGCGUUAUAADGUAAUUDUCUADUA
+  
+  
 Traceback (most recent call last):
   File "main.py", line 88, in <module>
     learning_rate=0.6)
